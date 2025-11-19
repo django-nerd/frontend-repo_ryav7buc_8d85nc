@@ -33,7 +33,7 @@ function Hero() {
             transition={{ delay: 0.1, duration: 0.6 }}
             className="mt-5 text-lg sm:text-xl text-white/80 max-w-xl"
           >
-            A meme coin with a voice so deep, it moves markets. The omniscient voiceover guiding your portfolio through highs, lows, and legendary lore.
+            Born on pump.fun. A Solana-native meme coin with a voice so deep it moves markets. The omniscient voiceover guiding your portfolio through highs, lows, and legendary lore.
           </motion.p>
 
           <motion.div
@@ -42,8 +42,8 @@ function Hero() {
             transition={{ delay: 0.2, duration: 0.6 }}
             className="mt-8 flex flex-wrap items-center gap-3"
           >
-            <a href="#buy" className="inline-flex items-center gap-2 rounded-full bg-white text-slate-900 px-6 py-3 font-semibold shadow-lg hover:bg-slate-100 transition">
-              Buy $NARR
+            <a href="https://pump.fun/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full bg-white text-slate-900 px-6 py-3 font-semibold shadow-lg hover:bg-slate-100 transition">
+              Buy on pump.fun
             </a>
             <a href="#litepaper" className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/5 px-6 py-3 text-white backdrop-blur-md hover:bg-white/10 transition">
               Litepaper
@@ -56,7 +56,7 @@ function Hero() {
             transition={{ delay: 0.3, duration: 0.6 }}
             className="mt-6 text-white/70 text-sm"
           >
-            "In a world of whispers, one voice echoes across the chain." — The Narrator
+            "In a world of whispers, one voice echoes across Solana." — The Narrator
           </motion.div>
         </div>
 

@@ -18,12 +18,12 @@ function Roadmap() {
       <div className="relative mx-auto max-w-6xl px-6">
         <div className="mb-10">
           <h2 className="text-3xl sm:text-4xl font-extrabold text-white">Roadmap</h2>
-          <p className="mt-2 text-white/70 max-w-2xl">From whisper to worldwide roar — the voice unfolds in chapters.</p>
+          <p className="mt-2 text-white/70 max-w-2xl">From fair launch to full-on chorus — the voice grows louder on Solana.</p>
         </div>
         <div className="grid md:grid-cols-3 gap-6">
-          <Step q="Chapter I" title="The Voice Emerges" points={["Fair launch", "Community ignition", "First narration drops"]} />
-          <Step q="Chapter II" title="Echo Across Chains" points={["DEX listings", "CEX outreach", "Audio collabs & memes"]} />
-          <Step q="Chapter III" title="Legendary Lore" points={["Narrator AI bot", "Animated shorts", "IRL voice events"]} />
+          <Step q="Chapter I" title="Launch on pump.fun" points={["Tweetstorm + trailer VO","Community ignition","First narration drops"]} />
+          <Step q="Chapter II" title="Echo Across Chains" points={["DEX listings","CEX outreach","Audio collabs & memes"]} />
+          <Step q="Chapter III" title="Legendary Lore" points={["Narrator AI bot","Animated shorts","IRL voice events"]} />
         </div>
       </div>
     </section>

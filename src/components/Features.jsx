@@ -5,12 +5,12 @@ function Features() {
     {
       icon: Mic2,
       title: "Cinematic Voiceover",
-      desc: "Narrations so deep they rumble through liquidity pools.",
+      desc: "Narrations so deep they rumble through Solana liquidity pools.",
     },
     {
       icon: ShieldCheck,
-      title: "Community-Driven",
-      desc: "Transparent, fair launch, with vibes and voice leading the way.",
+      title: "Fair Launch",
+      desc: "Born on pump.fun — no presale, no VC, just vibes and voice.",
     },
     { icon: Zap, title: "Speed of Hype", desc: "Lightning-fast memetics. Instant resonance." },
     { icon: Waves, title: "Vocal Resonance", desc: "An audio identity that reverberates across the chain." },
